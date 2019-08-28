@@ -4,10 +4,16 @@
 
 int main()
 {
+	double celciusToFarenheit(double);
+
 	printf("Geben Sie Ihre Temperatur in Celsius ein:\n");
 	double celcius = 0;
 	scanf_s("%lf", &celcius);
-	double farenheit = ((celcius * 9) / 5) + 32;
-	printf("%g Grad Celcius sind %g Grad Farenheit.\n", celcius, farenheit);
+	printf("%g Grad Celcius sind %g Grad Farenheit.\n", celcius, celciusToFarenheit(celcius));
 	system("pause");
+}
+
+double celciusToFarenheit(double celcius) {
+	double farenheit = ((celcius * 9) / 5) + 32;
+	return farenheit;
 }
