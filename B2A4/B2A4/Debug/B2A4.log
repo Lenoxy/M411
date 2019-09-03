@@ -1,0 +1,3 @@
+﻿  B2A4.cpp
+C:\Users\lenox\Documents\git\M411\B2A4\B2A4\B2A4.cpp(6,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  B2A4.vcxproj -> C:\Users\lenox\Documents\git\M411\B2A4\Debug\B2A4.exe
