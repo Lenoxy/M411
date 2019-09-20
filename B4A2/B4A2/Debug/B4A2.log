@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lenox\Documents\git\M411\B4A2\B4A2\Source.cpp(5,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\lenox\Documents\git\M411\B4A2\B4A2\Source.cpp(6,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  B4A2.vcxproj -> C:\Users\lenox\Documents\git\M411\B4A2\Debug\B4A2.exe
