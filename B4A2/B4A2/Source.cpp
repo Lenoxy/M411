@@ -9,4 +9,11 @@ void main() {
 		printf("%i\n", rand());
 	}
 
+
+	printf("TEST\n\n\n\n");
+	int zahl = 5;
+	int* pZahl = &zahl;
+
+	printf("zahl %p", pZahl);
+
 }
