@@ -10,5 +10,4 @@ typedef struct Grafikkarte {
 } struGrafikkarte;
 
 void main() {
-
 }
